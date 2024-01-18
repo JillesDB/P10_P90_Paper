@@ -1,0 +1,60 @@
+
+Results for dataframe train Dataset with dataframe test from Dataset_P10_Windsolar_Reg_Load until 2020-01-01, RW 2022-12-31
+                        MAE      rMAE         Time
+CW 714            19.275458  0.682705     0.000000
+CW 728            19.339953  0.684989     0.000000
+CW 112            19.469581  0.689580     0.000000
+CW 721            19.250667  0.681826     0.000000
+CW 84             19.525416  0.691558     0.000000
+CW 56             20.092155  0.711631  4659.770382
+Ensemble          17.368829  0.615175  4659.770382
+Weighed Ensemble  17.293851  0.612519  4659.770382
+
+Results for dataframe train Dataset with dataframe test from Dataset_P90_Windsolar_Reg_Load until 2020-01-01, RW 2022-12-31
+                        MAE      rMAE          Time
+CW 714            19.296186  0.683439  20301.010102
+CW 728            19.380575  0.686428  20347.936362
+CW 112            19.237360  0.681355   6007.234352
+CW 721            19.241674  0.681508  20396.042621
+CW 84             19.402057  0.687188   5342.438996
+CW 56             19.841341  0.702747   4640.141206
+Ensemble          17.442829  0.617796  77034.803639
+Weighed Ensemble  17.381234  0.615614  77034.803639
+{}
+
+Results for dataframe train Dataset with dataframe test from Dataset until 2020-01-01, RW 2022-12-31
+                        MAE      rMAE  Time
+CW 714            17.474439  0.618915   0.0
+CW 728            17.525848  0.620736   0.0
+CW 112            18.178755  0.643861   0.0
+CW 721            17.518338  0.620470   0.0
+CW 84             18.318357  0.648806   0.0
+CW 56             18.822781  0.666671   0.0
+Ensemble          15.983547  0.566111   0.0
+Weighed Ensemble  15.886785  0.562683   0.0
+{}
+
+Results for dataframe train Dataset with dataframe test from Dataset_P10_Windsolar_P90_Load until 2020-01-01, RW 2022-12-31
+                        MAE      rMAE  Time
+CW 714            19.265649  0.682357   0.0
+CW 728            19.336841  0.684879   0.0
+CW 112            19.495857  0.690511   0.0
+CW 721            19.286107  0.683082   0.0
+CW 84             19.527215  0.691621   0.0
+CW 56             20.074818  0.711017   0.0
+Ensemble          17.379958  0.615569   0.0
+Weighed Ensemble  17.322077  0.613519   0.0
+{}
+
+Results for dataframe train Dataset with dataframe test from Dataset_P90_Windsolar_P10_Load until 2020-01-01, RW 2022-12-31
+                        MAE      rMAE  Time
+CW 714            19.319491  0.684264   0.0
+CW 728            19.411513  0.687523   0.0
+CW 112            19.286708  0.683103   0.0
+CW 721            19.286970  0.683112   0.0
+CW 84             19.420672  0.687848   0.0
+CW 56             19.913858  0.705316   0.0
+Ensemble          17.478047  0.619043   0.0
+Weighed Ensemble  17.414666  0.616798   0.0
+
+Process finished with exit code 0
